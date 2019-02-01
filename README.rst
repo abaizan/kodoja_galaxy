@@ -24,7 +24,13 @@ http://testtoolshed.g2.bx.psu.edu/view/abaizan/kodoja
 Citation
 ========
 
-Please refer to the main Kodoja citation instructions.
+Please refer to the main Kodoja citation instructions for the latest
+information, but currently we request you cite the following manuscript
+for Kodoja including the Galaxy Wrapper:
+
+  Amanda Baizan-Edge *et al.* (2019), *Kodoja*: A workflow for virus
+  detection in plants using *k-mer* analysis of RNA-sequencing data,
+  Journal of General Virology https://doi.org/10.1099/jgv.0.001210
 
 
 Automated Installation
